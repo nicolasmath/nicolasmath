@@ -2,7 +2,7 @@
   <img src="banneeer.png" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">Analista de Suporte Jn. & Técnico em Informática em formação</h1>
+<h1 align="center">Analista de Suporte Jr. & Técnico em Informática em formação</h1>
 
 <hr>
 
